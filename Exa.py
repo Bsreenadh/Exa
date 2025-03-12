@@ -1,5 +1,5 @@
 from exa_py import Exa
-exa = Exa ("74d179aa-2e8f-43f6-853e-424a92990fa6")
+exa = Exa ("Enter your Api key here")
 query = input('Search here: ')
 response = exa.search(
   query,
